@@ -1,0 +1,6 @@
+* Kuyruk mekanizması
+* ilk giren ilk çıkar
+* Kafka önce depoluyo sonra gönderiyor 
+
+procedure > Topic > Consumer
+

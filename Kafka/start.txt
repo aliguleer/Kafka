@@ -1,0 +1,6 @@
+kafka-server-start.bat ..\..\config\server.properties
+
+kafka-console-consumer.bat --zookeeper localhost:2181 --topic search
+
+
+kafka-console-producer.bat --broker-list localhost:9092 --topic search 
